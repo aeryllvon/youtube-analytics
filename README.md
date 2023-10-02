@@ -1,6 +1,6 @@
 # Exploring YouTube: A Data Analysis of Channel Information using Python and the YouTube API
 
-
+<a href="https://aeryllvon.github.io/youtube-analytics/line.html" target="_blank">![linetrend](linetrend.png)</a>
 ## Overview
 
 
@@ -41,8 +41,8 @@ This **project** dives deep into the **analysis** of a specific **YouTube channe
 
 <table>
   <tr>
-    <td><img src="Gletter.png" alt="1st Image" width="300"/></td>
-    <td><img src="Dletter.png" alt="2nd Image" width="300"/></td>
-    <td><img src="T.png" alt="3rd Image" width="300"/></td>
+    <td><img src="Gput.png" alt="1st Image" width="300"/></td>
+    <td><img src="Dput.png" alt="2nd Image" width="300"/></td>
+    <td><img src="Tput.png" alt="3rd Image" width="300"/></td>
   </tr>
 </table>
