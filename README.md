@@ -12,6 +12,9 @@ This tool can be proficiently **utilised** by a diverse range of **professionals
 ## Overview
 
 
+The code for EDA can be found [here](https://github.com/aeryllvon/youtube-analytics/blob/main/NLP_Youtube.ipynb).
+
+
 Everyone loves watching **YouTube**, but what if we could **transform** your favorite channels into **valuable** sources of **analytics** and **insights**? By **extracting information** such as **view counts**, **titles**, and **like counts**, we can uncover **valuable trends** and **patterns** in the content creation industry. In today's **digital era**, where everyone aspires to be a **YouTube creator** or **content creator** due to its numerous benefits, **understanding** the **dynamics** of popular channels can be a game-changer.
 
 This **project** dives deep into the **analysis** of a specific **YouTube channel** - **Gauging Gadgets**. This channel is primarily focused on the exciting world of **tech**, **gadgets**, and **reviews**. Through **Python** and the **YouTube API**, we'll explore various aspects of this channel to **gain valuable insights** and **uncover hidden opportunities**.
@@ -71,7 +74,10 @@ Let’s **examine** whether there are any **correlations** among the following *
 Discovering a **strong correlation** between these variables may help in **refining content strategies**. For example, if videos with higher likes also have higher comments, focusing on **creating likable content** may subsequently **increase** the comment count, **fostering community interaction**.
 
 
+
 **Resource Allocation**:
 
 
 By **identifying** which variable has the most **significant** impact on the others, **resources** like **time** and **money** can be **allocated more efficiently**. For example, if comments have a **stronger correlation** with views, **encouraging user interaction and discussions** may be **more beneficial** than solely focusing on likes.
+
+The code for YouTube API can be found [here](https://github.com/aeryllvon/youtube-analytics/blob/main/youtube_api_trial.ipynb).
