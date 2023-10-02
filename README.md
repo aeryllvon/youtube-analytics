@@ -3,6 +3,12 @@
 <a href="https://aeryllvon.github.io/youtube-analytics/line.html" target="_blank">![linetrend](linetrend.png)</a>
 
 
+## Applicable Users:
+
+
+This tool can be proficiently **utilised** by a diverse range of **professionals** including **Content Creators**, **Social Media Analysts**, **Digital Marketers**, and **Business Strategists** seeking to **refine** their content **deployment strategies**, **optimise** audience **engagement**, and **enhance brand presence** across **digital** platforms. Whether **fine-tuning** content for **maximum impact** or **harnessing insights** to drive **business innovation**, users from various domains can **leverage** this tool to **achieve** their **unique objectives** and **elevate** their **digital endeavors**.
+
+
 ## Overview
 
 
@@ -48,3 +54,24 @@ This **project** dives deep into the **analysis** of a specific **YouTube channe
     <td><img src="Tput.png" alt="3rd Image" width="300"/></td>
   </tr>
 </table>
+
+**Scatter Plot**
+
+![scatter](scatter.png)
+
+Let’s **examine** whether there are any **correlations** among the following **variables**: **‘viewCount’**, **‘likeCount’**, and **‘commentCount’**. By **exploring** potential **relationships** between these factors, we can **gain** a **deeper understanding** of their **interconnectedness** and **influence** on each other, thereby **extracting meaningful insights** from our **data**.
+
+
+**Application**
+
+
+**Content Strategy Adjustment**:
+
+
+Discovering a **strong correlation** between these variables may help in **refining content strategies**. For example, if videos with higher likes also have higher comments, focusing on **creating likable content** may subsequently **increase** the comment count, **fostering community interaction**.
+
+
+**Resource Allocation**:
+
+
+By **identifying** which variable has the most **significant** impact on the others, **resources** like **time** and **money** can be **allocated more efficiently**. For example, if comments have a **stronger correlation** with views, **encouraging user interaction and discussions** may be **more beneficial** than solely focusing on likes.
